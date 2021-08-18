@@ -3,8 +3,8 @@
 
 ### Tech stack:
 React\
-React hooks 
-React-Router 
-Express 
-MongoDB 
-Running a full-stack app on AWS 
+React hooks\
+React-Router\ 
+Express\
+MongoDB\
+Running a full-stack app on AWS\
