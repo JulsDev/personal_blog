@@ -4,7 +4,7 @@
 ### Tech stack:
 React\
 React hooks\
-React-Router\ 
+React-Router\
 Express\
 MongoDB\
-Running a full-stack app on AWS\
+Running a full-stack app on AWS
