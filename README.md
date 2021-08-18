@@ -2,7 +2,7 @@
 ## Personal blog
 
 ### Tech stack:
-React 
+React\
 React hooks 
 React-Router 
 Express 
